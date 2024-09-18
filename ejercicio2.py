@@ -14,6 +14,11 @@ def funcionAnagrama (p1, p2):
             return True
     return False    
 
+'''
+.lower(): ESTE METODO CONVIERTE PALABRAS A minisculas
+sorted(): Esta funcion toma la cadena de caracteres y lo "ordena" alfabeticamente
+'''
+
 palabra1 = input ("Escriba una palabra: ")
 palabra2 = input ("Escriba otra palabra: ")        
 
